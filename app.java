@@ -5,6 +5,7 @@ public class HelloWorld {
     }
 }
 
+
 public class AsciiValue {
 
     public static void main(String[] args) {
@@ -18,3 +19,5 @@ public class AsciiValue {
         System.out.println("The ASCII value of " + ch + " is: " + castAscii);
     }
 }
+
+we aree adding more lines
